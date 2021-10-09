@@ -1,6 +1,6 @@
 # SdSandbox
 
-Self Driving Car Sandbox
+Self Driving Car Sandbox (this is an unofficial fork of the original sdsandbox by tawn-kramer, modified for the purposes of research by the MuSHR team at the University of Washington. [Link](https://github.com/tawnkramer/sdsandbox) to original repository.
 
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/e0AFMilaeMI/0.jpg)](https://www.youtube.com/watch?v=e0AFMilaeMI "self driving car sim")
